@@ -1,0 +1,6 @@
+@"
+*.class
+appendonly.aof
+.idea/
+.vscode/
+"@ | Set-Content .gitignore
